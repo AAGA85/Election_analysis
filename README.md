@@ -41,9 +41,11 @@ The analysis of the election show that:
 
 ## Challenge Summary
 
-The challenge of this project  besides the presentation of audit results as requested, was to develop a code easy to use and modify to audit other types of elections. In order to meet with this challenge, the scrip includes a full and clear description of each task. The user can identify the comment of each taks with a # or number sign before each comment.
+Excel and VBA as we have studied previously, are common tools for data analysis. They could be used to develop this project but as we have discovered in previous modules their use can be complex when we need to work with several operations and large data sets, the time of execution can be impacted significantly because the amount of data and operations. In this module we have been able to discover that Python is more efficient with large amount of data, besides that Python code can be stored as scripts then the code can be reused and manipulated by many other users and all this for free. 
 
-If the user wanto to get the same results as the Colorado Elections without code changes, the only thing that the new user has to do is to allocate the file to be load (the file where the program will read the data) to the current working directory, save the code and then run the code.
+One of the challenge of this project,  besides the presentation of audit results as requested, was to develop a code easy to use and modify to audit other types of elections. Then based on the conclusion previously described, Python help us to meet with this challenge. Other users will be able to understant the scrip becuase it includes a full and clear description of each task. The user can identify the comment of each taks with a # or number sign before each comment.
+
+This code is so easy to use, the new user just need to allocate the file to be load (the file where the program will read the data) to the current working directory, save the code and run it.
 
 ![Retrive the data](https://user-images.githubusercontent.com/106939511/176815532-c33256bd-de73-45f3-b06f-9c0aaef6f8af.png)
 
