@@ -36,11 +36,17 @@ The analysis of the election show that:
     
  All this data has been summarized in the attached file called [***election analysis***](https://github.com/AAGA85/Election_analysis/blob/7769c16d94b39fac422425c1e0c8ba11dabd59bd/analysis/election_analysis.txt)
  
- The full script of this analysis can be found here Election Analysis code
+ The full script of this analysis can be found here [***Election Analysis code***] (https://github.com/AAGA85/Election_analysis/blob/7769c16d94b39fac422425c1e0c8ba11dabd59bd/PyPoll_Challenge.py)
  
 
-##Challenge Overview
+## Challenge Overview
 
-The challenge of this project  besides the presentation of audit results as requested, was to develop a code to be easy to used to audit other types of elections. In order to meet with this challenge, the scrip includes a full and clear description of each task easy to change for example: 
+The challenge of this project  besides the presentation of audit results as requested, was to develop a code easy to use and modify to audit other types of elections. In order to meet with this challenge, the scrip includes a full and clear description of each task. The user can identify the comment of each taks with a # or number sign before each comment.
+
+If the user wanto to get the same results as the Colorado Elections without code changes, the only thing that the new user has to do is to allocate the file to be load (the file where the program will read the data) to the current working directory, save the code and then run the code.
+
+![Retrive the data](https://user-images.githubusercontent.com/106939511/176814610-f6268961-df3b-44a5-a66a-ec54385f9180.png)
+
+
 
 ##Challenge Summary
