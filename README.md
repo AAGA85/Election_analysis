@@ -34,7 +34,7 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
     
- All this data has been summarized in the attached file called [***election analysis***](https://github.com/AAGA85/Election_analysis/blob/7769c16d94b39fac422425c1e0c8ba11dabd59bd/analysis/election_analysis.txt)
+ Please find all this data summarized in the attached file called [***election analysis***](https://github.com/AAGA85/Election_analysis/blob/7769c16d94b39fac422425c1e0c8ba11dabd59bd/analysis/election_analysis.txt)
  
  The full script of this analysis can be found here [***Election Analysis code***](https://github.com/AAGA85/Election_analysis/blob/7769c16d94b39fac422425c1e0c8ba11dabd59bd/PyPoll_Challenge.py)
  
