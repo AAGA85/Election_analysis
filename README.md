@@ -45,7 +45,8 @@ The challenge of this project  besides the presentation of audit results as requ
 
 If the user wanto to get the same results as the Colorado Elections without code changes, the only thing that the new user has to do is to allocate the file to be load (the file where the program will read the data) to the current working directory, save the code and then run the code.
 
-![Retrive the data](https://user-images.githubusercontent.com/106939511/176814610-f6268961-df3b-44a5-a66a-ec54385f9180.png)
+![Retrive the data](https://user-images.githubusercontent.com/106939511/176815532-c33256bd-de73-45f3-b06f-9c0aaef6f8af.png)
+
 
 
 
