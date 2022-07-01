@@ -36,6 +36,7 @@ The analysis of the election show that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
     
  All this data has been summariced in the attached file called *election analysis* https://github.com/AAGA85/Election_analysis/blob/7769c16d94b39fac422425c1e0c8ba11dabd59bd/analysis/election_analysis.txt
+ analysis/election_analysis.txt
 
 ##Challenge Overview
 
