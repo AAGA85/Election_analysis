@@ -15,7 +15,7 @@ A Colorado Board of Elections employee has requested our assistance to audit the
 - Data Source: election_results.cvs
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
-## Summary 
+## Results 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The voter turnout for each county and their percentage of the total votes were:
@@ -36,10 +36,10 @@ The analysis of the election show that:
     
  All this data has been summarized in the attached file called [***election analysis***](https://github.com/AAGA85/Election_analysis/blob/7769c16d94b39fac422425c1e0c8ba11dabd59bd/analysis/election_analysis.txt)
  
- The full script of this analysis can be found here [***Election Analysis code***] (https://github.com/AAGA85/Election_analysis/blob/7769c16d94b39fac422425c1e0c8ba11dabd59bd/PyPoll_Challenge.py)
+ The full script of this analysis can be found here [***Election Analysis code***](https://github.com/AAGA85/Election_analysis/blob/7769c16d94b39fac422425c1e0c8ba11dabd59bd/PyPoll_Challenge.py)
  
 
-## Challenge Overview
+## Challenge Summary
 
 The challenge of this project  besides the presentation of audit results as requested, was to develop a code easy to use and modify to audit other types of elections. In order to meet with this challenge, the scrip includes a full and clear description of each task. The user can identify the comment of each taks with a # or number sign before each comment.
 
@@ -48,6 +48,3 @@ If the user wanto to get the same results as the Colorado Elections without code
 ![Retrive the data](https://user-images.githubusercontent.com/106939511/176815532-c33256bd-de73-45f3-b06f-9c0aaef6f8af.png)
 
 
-
-
-##Challenge Summary
